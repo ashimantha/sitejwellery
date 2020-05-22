@@ -1,0 +1,33 @@
+.body-bg {
+  background-color: #e8ebf1;
+}
+
+.bg-blue {
+  background-color: #d9edf7;
+}
+.bg-yellow {
+  background-color: #fcf8e3;
+}
+.bg-red {
+  background-color: #f2dede;
+}
+
+.bg-green {
+  background-color: #ade497;
+}
+
+.primary-light {
+  background-color: #e8ebf1;
+}
+.card-header {
+    color: #000;
+}
+
+hr{
+    height: 2px;
+
+}
+
+.nav-item{
+    padding: 5px;
+}
